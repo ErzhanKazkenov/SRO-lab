@@ -1,0 +1,9 @@
+< HTML >
+	< ГОЛОВА >
+		< TITLE > Учебный файл HTML </ TITLE >
+	</ HEAD >
+	< ТЕЛО >
+		< FONT  SIZE = " 7 " > Расписание </ FONT > 
+		занятии на вторник
+	</ BODY >
+< HTML >
