@@ -1,0 +1,9 @@
+< HTML >
+	< ГОЛОВА >
+		< TITLE > Учебный файл HTML </ TITLE >
+	</ HEAD >
+	< ТЕЛО >
+		< U > < I > < FONT  COLOR = " # B00FF " FACE = " ARIAL " SIZE = " & " > Расписание </ FONT > </ B > </ I > </ U > 
+занятии на вторник
+	</ BODY >
+< HTML >
